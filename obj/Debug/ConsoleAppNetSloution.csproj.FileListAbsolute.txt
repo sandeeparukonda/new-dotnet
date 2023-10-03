@@ -1,0 +1,7 @@
+C:\Users\SANDEEP\source\repos\ConsoleAppNetSloution\ConsoleAppNetSloution\bin\Debug\ConsoleAppNetSloution.exe.config
+C:\Users\SANDEEP\source\repos\ConsoleAppNetSloution\ConsoleAppNetSloution\bin\Debug\ConsoleAppNetSloution.exe
+C:\Users\SANDEEP\source\repos\ConsoleAppNetSloution\ConsoleAppNetSloution\bin\Debug\ConsoleAppNetSloution.pdb
+C:\Users\SANDEEP\source\repos\ConsoleAppNetSloution\ConsoleAppNetSloution\obj\Debug\ConsoleAppNetSloution.csproj.AssemblyReference.cache
+C:\Users\SANDEEP\source\repos\ConsoleAppNetSloution\ConsoleAppNetSloution\obj\Debug\ConsoleAppNetSloution.csproj.CoreCompileInputs.cache
+C:\Users\SANDEEP\source\repos\ConsoleAppNetSloution\ConsoleAppNetSloution\obj\Debug\ConsoleAppNetSloution.exe
+C:\Users\SANDEEP\source\repos\ConsoleAppNetSloution\ConsoleAppNetSloution\obj\Debug\ConsoleAppNetSloution.pdb
